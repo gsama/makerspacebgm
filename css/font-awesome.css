@@ -985,6 +985,9 @@
 .fa-code:before {
   content: "\f121";
 }
+.fa-binoculars:before {
+  content: "\f1e5";
+}
 .fa-reply-all:before {
   content: "\f122";
 }
@@ -1035,6 +1038,9 @@ fa-person-chalkboard:before {
 }
 .fa-microphone:before {
   content: "\f130";
+}
+.fa-microchip:before {
+  content: "\f2db";
 }
 .fa-microphone-slash:before {
   content: "\f131";
