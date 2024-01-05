@@ -1021,6 +1021,9 @@
 .fa-superscript:before {
   content: "\f12b";
 }
+fa-person-chalkboard:before {
+  content: "\e53d";
+}
 .fa-subscript:before {
   content: "\f12c";
 }
