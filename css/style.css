@@ -1764,3 +1764,15 @@ padding:50px 0
     padding: 22px 0 14px;
     font-size: 18px;
 }
+.profile-pic {
+    width: 120px; /* Adjust size as needed */
+    height: 120px; /* Ensure width and height are equal */
+    object-fit: cover;
+    border-radius: 50%; /* Circular shape */
+    border: 2px solid #007bff; /* Optional border color */
+    display: block;
+    margin: 0 auto 10px auto; /* Centers image */
+}
+.team-member {
+    text-align: center; /* Ensures name and designation are centered */
+}
